@@ -1,0 +1,23 @@
+{
+  "name": "null-mp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mp3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mustafa Gökkaya",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "2.6.1",
+    "path": "^0.12.7",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
+  }
+}
